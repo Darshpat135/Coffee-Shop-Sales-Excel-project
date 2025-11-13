@@ -1,5 +1,4 @@
-# Coffee-Shop-Sales-Excel-project
-#Overview
+# Coffee-Shop-Sales-Excel-project     
 This project analyzes the sales performance of Coffee Shop outlets using an
  Excel-based dashboard. It brings together KPIs, charts, slicers, and visual insights
  that help understand:
@@ -9,3 +8,4 @@ This project analyzes the sales performance of Coffee Shop outlets using an
  • Store-location-wise comparisons
  The dashboard enables business leaders to make data-driven decisions regarding
  product strategy, inventory planning, and store operations
+  
